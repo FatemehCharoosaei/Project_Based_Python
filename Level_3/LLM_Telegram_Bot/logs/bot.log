@@ -1,0 +1,96 @@
+2025-10-09 17:52:14.104 | INFO     | __main__:configure_logger:33 - Log level set to INFO for console and DEBUG for file
+2025-10-09 17:52:14.104 | INFO     | __main__:<module>:135 - Starting the bot...
+2025-10-09 17:52:50.760 | DEBUG    | __main__:should_process_reaction:60 - Conditions: [True]
+2025-10-09 17:52:50.774 | DEBUG    | __main__:process_reaction:104 - Reaction: :thumbs_up:
+2025-10-09 17:53:03.119 | DEBUG    | __main__:should_process_message:52 - Conditions: [False, False, True]
+2025-10-09 17:53:20.053 | DEBUG    | __main__:should_process_reaction:60 - Conditions: [True]
+2025-10-09 17:53:20.053 | DEBUG    | __main__:process_reaction:104 - Reaction: :thumbs_up:
+2025-10-09 17:56:39.984 | DEBUG    | __main__:should_process_message:52 - Conditions: [False, False, True]
+2025-10-09 17:56:44.653 | DEBUG    | __main__:should_process_reaction:60 - Conditions: [True]
+2025-10-09 17:56:44.654 | DEBUG    | __main__:process_reaction:104 - Reaction: :thumbs_up:
+2025-10-09 17:57:01.859 | DEBUG    | __main__:should_process_message:52 - Conditions: [False, True, True]
+2025-10-09 17:57:09.126 | DEBUG    | __main__:should_process_reaction:60 - Conditions: [True]
+2025-10-09 17:57:09.127 | DEBUG    | __main__:process_reaction:104 - Reaction: :thumbs_up:
+2025-10-09 18:06:57.685 | INFO     | __main__:configure_logger:33 - Log level set to INFO for console and DEBUG for file
+2025-10-09 18:06:57.686 | INFO     | __main__:<module>:135 - Starting the bot...
+2025-10-09 18:07:52.827 | DEBUG    | __main__:should_process_message:52 - Conditions: [False, False, True]
+2025-10-09 18:08:02.934 | DEBUG    | __main__:should_process_reaction:60 - Conditions: [True]
+2025-10-09 18:08:02.949 | DEBUG    | __main__:process_reaction:104 - Reaction: :thumbs_up:
+2025-10-09 18:21:18.939 | INFO     | __main__:configure_logger:30 - Log level set to INFO
+2025-10-09 18:21:18.939 | INFO     | __main__:<module>:112 - Starting the bot...
+2025-10-09 18:22:16.804 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 18:22:24.568 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 18:22:24.581 | DEBUG    | __main__:process_reaction:84 - Reaction: :thumbs_up:
+2025-10-09 18:26:04.012 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 18:26:04.012 | DEBUG    | __main__:process_reaction:84 - Reaction: :red_heart:
+2025-10-09 18:26:38.694 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 18:33:45.704 | INFO     | __main__:configure_logger:30 - Log level set to INFO
+2025-10-09 18:33:45.705 | INFO     | __main__:<module>:112 - Starting the bot...
+2025-10-09 18:34:23.220 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 18:34:27.100 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 18:34:27.119 | DEBUG    | __main__:process_reaction:84 - Reaction: :thumbs_up:
+2025-10-09 18:34:47.785 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 18:38:56.816 | INFO     | __main__:configure_logger:30 - Log level set to INFO
+2025-10-09 18:38:56.817 | INFO     | __main__:<module>:112 - Starting the bot...
+2025-10-09 18:39:37.069 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 18:39:39.340 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 18:39:39.351 | DEBUG    | __main__:process_reaction:84 - Reaction: :red_heart:
+2025-10-09 18:39:57.549 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 18:55:22.430 | INFO     | __main__:configure_logger:30 - Log level set to INFO
+2025-10-09 18:55:22.431 | INFO     | __main__:<module>:112 - Starting the bot...
+2025-10-09 18:55:50.493 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 18:55:53.045 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 18:55:53.056 | DEBUG    | __main__:process_reaction:84 - Reaction: :red_heart:
+2025-10-09 18:56:09.406 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 18:56:12.061 | ERROR    | llm:call_llm:28 - Groq API error: Error code: 404 - {'error': {'message': 'The model `gpt-4o` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2025-10-09 19:12:21.511 | INFO     | __main__:configure_logger:30 - Log level set to INFO
+2025-10-09 19:12:21.511 | INFO     | __main__:<module>:112 - Starting the bot...
+2025-10-09 19:12:57.116 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:13:03.241 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 19:13:03.250 | DEBUG    | __main__:process_reaction:84 - Reaction: :red_heart:
+2025-10-09 19:13:29.991 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 19:13:32.220 | ERROR    | llm:call_llm:28 - Groq API error: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-10-09 19:16:01.320 | INFO     | __main__:configure_logger:30 - Log level set to INFO
+2025-10-09 19:16:01.320 | INFO     | __main__:<module>:112 - Starting the bot...
+2025-10-09 19:16:21.137 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:16:24.010 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 19:16:24.016 | DEBUG    | __main__:process_reaction:84 - Reaction: :red_heart:
+2025-10-09 19:16:40.721 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 19:17:20.704 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:17:34.263 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 19:18:21.961 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:18:26.071 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 19:18:26.071 | DEBUG    | __main__:process_reaction:84 - Reaction: :red_heart:
+2025-10-09 19:18:35.336 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 19:19:19.726 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:19:23.221 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 19:19:23.221 | DEBUG    | __main__:process_reaction:84 - Reaction: :thumbs_up:
+2025-10-09 19:19:37.059 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 19:36:20.998 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:36:23.708 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 19:36:23.709 | DEBUG    | __main__:process_reaction:84 - Reaction: :red_heart:
+2025-10-09 19:36:37.101 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 19:37:05.339 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:37:07.996 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 19:37:07.997 | DEBUG    | __main__:process_reaction:84 - Reaction: :thumbs_up:
+2025-10-09 19:37:24.431 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 19:38:01.898 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:38:06.335 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 19:38:06.339 | DEBUG    | __main__:process_reaction:84 - Reaction: :thumbs_up:
+2025-10-09 19:38:25.073 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 19:52:28.440 | INFO     | __main__:configure_logger:30 - Log level set to INFO
+2025-10-09 19:52:28.440 | INFO     | __main__:<module>:112 - Starting the bot...
+2025-10-09 19:53:22.286 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:53:24.692 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 19:53:24.701 | DEBUG    | __main__:process_reaction:84 - Reaction: :red_heart:
+2025-10-09 19:53:37.989 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 19:54:31.311 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:54:33.725 | DEBUG    | __main__:should_process_reaction:51 - Conditions: [True]
+2025-10-09 19:54:33.730 | DEBUG    | __main__:process_reaction:84 - Reaction: :thumbs_up:
+2025-10-09 19:54:44.140 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 19:55:19.119 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:55:30.546 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 19:56:06.468 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:56:17.633 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
+2025-10-09 19:57:10.163 | DEBUG    | __main__:should_process_message:45 - Conditions: [False, False, True]
+2025-10-09 19:57:23.274 | DEBUG    | __main__:should_process_message:45 - Conditions: [True, True, True]
